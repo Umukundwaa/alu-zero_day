@@ -1,1 +1,1 @@
-hello there this my first alu Githubproject
+my first project
